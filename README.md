@@ -1,0 +1,2 @@
+# MyDjango
+Learn Django project
